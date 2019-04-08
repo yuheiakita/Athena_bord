@@ -1,7 +1,7 @@
-<!DOCTYPE <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ja">
-  <html>
     <head>
+      <meta charest="utf-8">
       <title>おすすめのスレッド</title>
     </head>
     <body>

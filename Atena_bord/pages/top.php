@@ -1,8 +1,8 @@
-<!DOCTYPE <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ja">
-  <html>
     <head>
       <div>
+      <meta charest="utf-8">
         <title>Youtuberアングラコメ</title>
 
         <!--画像入れる予定-->
@@ -11,11 +11,14 @@
     <body>
       <div>
         <h1>Youtuberアングラコメ</h1>
-        <p>~Youtubeじゃでない情報を書き込もう~</p>
+        <p>~Youtubeで書き込めないことを書きまくろう笑~</p>
+        message:<input type="text" name="message">
+        user:<input type="text" name="user">
+        <input type="submit" value="投稿"> 
       </div>
       <div>
           <h2>スレッド一覧</h2>
-          <a href="contens.html">おすすめのスレッド</a>
+          <a href="contens.php">おすすめのスレッド</a>
       </div>
     </body>
   </html>
