@@ -20,7 +20,7 @@ if (!empty($_POST)){
         $message->execute(array($member['id'],$_POST['message']));
 
         //投稿内容が重複してDBに保存されないように防止役
-        header('Location.php');
+        header('Location:index.php');
         exit();
     }
 }
