@@ -1,4 +1,5 @@
 <?php 
+//クッキーを切ってログアウトする
 session_start();
 $_SESSION=array();
 if (ini_set('session.use_cookies')){
