@@ -1,7 +1,7 @@
 <?php
 session_start();
 require('config.php');
-
+//削除機能
 if(isset($_SESSION['id'])){
     $id=$_REQUEST['id'];
 
