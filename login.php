@@ -2,9 +2,6 @@
 session_start();
 require('config.php');
 
-if($_COOKIE['email']!==''){
-  $email=$_COOKIE['email'];
-}
 
 //DBへ問い合わせ
 if(!empty($_POST)){
