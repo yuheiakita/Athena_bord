@@ -45,8 +45,6 @@ if(!empty($_POST)){
     </div>
      <label for="password">password</label>
      <input type="password" name="password"><br>
-     <div><input id="save" type="checkbox" name="save" value="on">
-     <label for="save">次回から自動的にログインする</label>
     </div>
      <button type="submit">Login</button>
    </form>
