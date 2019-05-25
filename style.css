@@ -1,0 +1,148 @@
+body{
+    font-family: "Helvetica Neue","游ゴシック体", YuGothic;
+}
+
+
+div.bord_conteiner{
+    display: flex;
+    vertical-align:top;
+}
+
+div.button_conteiner{
+    margin-left: 430px;
+    width: 500px;
+    display: flex;
+}
+
+p.borad_naem{
+    font-size: 40px;
+    margin-left: 550px;
+}
+
+a.button{
+    width: 400px;
+    margin-right: 20px;
+    background-color: rgb(58, 192, 147);
+    color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    padding-right: 30px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+p.login_name{
+    margin-left: 580px;
+}
+
+div.form-group{
+    margin-left: 420px;
+}
+
+button.btn-info{
+    margin-left: 620px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    background-color:rgb(58, 192, 147);
+    color: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+
+}
+
+
+textarea.textarea{
+    background-color: rgb(167, 173, 179);
+    border-radius: 5px;
+    border:none;
+    height: 300px;
+    width: 500px;
+    font-size: 25px;
+}
+
+div.msg{
+    margin-left: 420px;
+    display: flex;
+    background-color: rgb(177, 177, 177);
+    width: 400px;
+    padding-left: 90px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+p.msg_01{
+    margin-right: 7px;
+}
+
+a.time{
+    text-decoration: none; 
+    color: #ffffff;
+}
+
+a.del{
+    text-decoration: none;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #ffffff;
+    background-color:rgb(214, 21, 21);
+    border-radius: 5px;
+}
+
+h1.register{
+    margin-left: 600px;
+}
+
+form.register_01{
+    margin-left: 520px;
+}
+
+div.block{
+    margin-bottom: 5px;
+}
+
+label.label{
+    width: 80px;
+    margin-right: 20px;
+}
+
+a.login_link{
+    margin-left: 600px;
+    font-size: 14px;
+    background-color:rgb(58, 192, 147);
+    color: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    text-decoration: none;
+}
+
+button.submit{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 80px;
+    background-color:rgb(52, 72, 184);
+    color: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    text-decoration: none;
+    font-size: 24px;
+}
